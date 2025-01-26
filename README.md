@@ -4,6 +4,7 @@ I am a dedicated Software Quality Assurance Engineer with over 5 years of experi
 
 I am proficient in test management tools such as Jira and Confluence and have hands-on experience with programming languages like Java. Known for strong communication and organizational skills, I excel in identifying and resolving issues efficiently while delivering comprehensive testing reports to stakeholders. Passionate about continuous learning, I have earned certifications in Selenium, API Testing, and SQL for Testers, which further reinforce my technical abilities.
 
+
 #### Technical Skills : Java 
 #### Test Automation tools: Selenium , Appium
 
