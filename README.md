@@ -31,6 +31,9 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<i>The Space Language School </i><br>
 2024       :<b>Certificate of completion Selenium WebDriver with Java Basics to Advanced +Frameworks from Udemy</b>
 
+### Professional Experiences
+2023/05 – Present    
+Quality Assurance Engineer at <a href="https://wavemoney.com.mm/wavemoney">Wave Money</a>"
 
 
 
