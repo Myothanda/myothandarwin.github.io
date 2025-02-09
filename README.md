@@ -41,13 +41,16 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 •	Collaborate with Automation testing team and run test script using Appium <br>
 •	Collaborate with cross-functional teams, include product managers, business analysts, and developers, to prioritize tasks, refine user stories, and ensure timely delivery of high-quality software products <br>
 
-<b>April 2022 – April 2023 </b>
+<b> April 2022 – April 2023 </b>
 #### Quality Assurance Engineer at <a href="https://www.onepay.com.mm/">One Pay</a><br>
 •	Created test cases/ test scenarios for enhancements and fixes on applications <br>
 •	Performed all aspects of verification, including API testing, End to End testing, smoke testing, sanity testing, user acceptance testing and Exploratory testing <br>
 •	Organized and reported project testing status at daily stand-up meeting <br>
 •	Worked under Align (Scrum) environment/team focusing on sprint-by-sprint deliveries <br>
 •	Independently analyzes issues, recommends software changes, writes detailed bug reports, maintains ownership of test cases and test results throughout the SDLC <br>
+
+<b> January 2020 - March 2022 </b>
+#### Quality Assurance Engineer at <a href="https://www.taraaung.com/">TARA AUNG</a><br>
 
 
 
