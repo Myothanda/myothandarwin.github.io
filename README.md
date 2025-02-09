@@ -10,8 +10,13 @@ Key strengths that I bring to this position include:
 
 3. Problem-Solving Skills: Strong analytical and problem-solving abilities, with a keen eye for detail and a commitment to delivering high-quality software.
 
-#### Technical Skills : Java, Python
-#### Test Automation tools: Selenium , Appium , Postman 
+#### Technical Skills 
+•	Familiar with test automation tools (e.g., Selenium, Appium).
+•	I have experience regarding implementation of automation framework designs from scratch. 
+(TestNG, ANT, Page Object, Maven, Jenkins, Excel, Data driven, Cucumber, Client html reports)
+•	Experience with programming languages used in automation (Java/Python)
+#### Tools:   
+Postman, Visual Studio, Eclipse, Selenium, Appium
 
 
 
