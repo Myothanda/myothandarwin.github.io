@@ -40,7 +40,6 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 •	Performing non-functional testing, particularly in conducting usability and compatibility testing <br>
 •	Collaborate with Automation testing team and run test script using Appium <br>
 •	Collaborate with cross-functional teams, include product managers, business analysts, and developers, to prioritize tasks, refine user stories, and ensure timely delivery of high-quality software products <br>
-
 <b> April 2022 – April 2023 </b>
 #### Quality Assurance Engineer at <a href="https://www.onepay.com.mm/">One Pay</a><br>
 •	Created test cases/ test scenarios for enhancements and fixes on applications <br>
@@ -48,7 +47,6 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 •	Organized and reported project testing status at daily stand-up meeting <br>
 •	Worked under Align (Scrum) environment/team focusing on sprint-by-sprint deliveries <br>
 •	Independently analyzes issues, recommends software changes, writes detailed bug reports, maintains ownership of test cases and test results throughout the SDLC <br>
-
 <b> January 2020 - March 2022 </b>
 #### Quality Assurance Engineer at <a href="https://www.taraaung.com/">Tara Aung</a><br>
 •	Experienced in develop test cases based on business requirement and technical specifications <br>
@@ -57,6 +55,12 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 •	Organized and reported project testing status at daily stand-up meeting <br>
 •	Presented a software Demo and collected business requirement, feedback from clients<br>
 •	Experienced in software installation at client sites, conducted training to end users and develop user guide document <br>
+<b> October 2018 -December 2019</b>
+### Junior Quality Assurance at  <a href="https://dynamicweb.com/about/meet-dynamicweb/team-apac">Dynamic Web APAC</a><br>
+•	Analyzed the business requirements, and functional, and technical designs to develop test cases for the assigned project
+•	Manual evaluated and raised issues in project tracking issue
+•	Supported client issues
+•	•Learn to understand software Development Life Cycle (SDLC) and software Testing Life Cycle (STLC) including Agile Methodology
 
 
 
