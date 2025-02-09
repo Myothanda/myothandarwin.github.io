@@ -1,12 +1,17 @@
 # Quality Assurance Engineer 
 ## Professional Summary
-I am a dedicated Software Quality Assurance Engineer with over 5 years of experience in ensuring the delivery of high-quality software solutions across web and mobile platforms. Skilled in test automation (Selenium, Appium) and adept at designing automation frameworks from scratch, I bring a robust understanding of software testing methodologies and Agile processes. My expertise includes creating and executing test cases, performing functional and non-functional testing, and collaborating effectively with cross-functional teams to enhance product quality.
+Hello ! , My namd is Nang Myo Thandar Win and  worked in QA roles for over 5 years, I have honed my skills in designing and executing comprehensive test plans, identifying and documenting defects, and collaborating with cross-functional teams to ensure the delivery of high-quality software solutions. My experience extends to various projects, where I have successfully tested customizations, integrations, and deployments across different environments.
 
-I am proficient in test management tools such as Jira and Confluence and have hands-on experience with programming languages like Java. Known for strong communication and organizational skills, I excel in identifying and resolving issues efficiently while delivering comprehensive testing reports to stakeholders. Passionate about continuous learning, I have earned certifications in Selenium, API Testing, and SQL for Testers, which further reinforce my technical abilities.
+Key strengths that I bring to this position include:
 
+1. Regression Testing: I specialize in regression testing, implementing comprehensive testing strategies to verify that new enhancements or updates do not adversely impact existing features. My attention to detail and systematic approach have consistently minimized the risk of regression issues in previous projects.
 
-#### Technical Skills : Java 
-#### Test Automation tools: Selenium , Appium
+2. Agile Methodology: Experience in Agile development environments, participating in sprint planning, daily stand-ups, and sprint reviews to ensure alignment with project timelines.
+
+3. Problem-Solving Skills: Strong analytical and problem-solving abilities, with a keen eye for detail and a commitment to delivering high-quality software.
+
+##### Technical Skills : Java, Python
+##### Test Automation tools: Selenium , Appium , Postman 
 
 
 
