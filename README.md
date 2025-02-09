@@ -10,18 +10,18 @@ Key strengths that I bring to this position include:
 
 3. Problem-Solving Skills: Strong analytical and problem-solving abilities, with a keen eye for detail and a commitment to delivering high-quality software.
 
-#### Technical Skills 
+### Technical Skills 
 •	Familiar with test automation tools (e.g., Selenium, Appium). <br>
 •	I have experience regarding implementation of automation framework designs from scratch. <br>
 (TestNG, ANT, Page Object, Maven, Jenkins, Excel, Data driven, Cucumber, Client html reports)<br>
 •	Experience with programming languages used in automation (Java/Python)<br>
-#### Tools:   
+### Tools  
 Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 ### Education 
 2013-2018  :<b>Bachelor of Computer Science </b> (B. C. Sc) <br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<i>University of Computer Studies, Taunggyi, Myanmar</i><br>
 2022-2023  :<b>General English (Advance level)</b><br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>The Space Language School </i><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<i>The Space Language School </i><br>
 2024       :<b>Certificate of completion Selenium WebDriver with Java Basics to Advanced +Frameworks from Udemy</b>
 
 
