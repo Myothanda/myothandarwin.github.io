@@ -70,9 +70,9 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 •	•Learn to understand software Development Life Cycle (SDLC) and software Testing Life Cycle (STLC) including Agile Methodology
 ### Projects Experience
 <hr/>
-<b> Project Title:Wave Pay Merchant Application </b><br>
-<b>Project Duration:19th August 2023 – Current</b><br>
-<b></b>Position:Quality Assurance Engineer</b>
+<b>Project Title:&nbsp;&nbsp; Wave Pay Merchant Application </b><br>
+<b>Project Duration: 19th August 2023 – Current</b><br>
+<b>Position:&nbsp;&nbsp; Quality Assurance Engineer</b>
 <b>Responsibilities </b> <br>
 <p>
 •	Conducted comprehensive testing of the mobile wallet application across various platforms (iOS and Android) to identify and report software defects.<br>
