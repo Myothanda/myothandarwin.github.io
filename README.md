@@ -129,6 +129,21 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 <b>Married status:</b> Single          <b>Nationality:</b>  Burmese /Shan <br>
 <b>Languages:</b> Fluent in English, Burmese, Shan ,Thai (Basic Communication)<br>
 
+### Communication and Collaboration
+<hr/>
+•	Strong written and verbal communication skills for documenting test plans, reports, and defects.<br>
+•	Ability to collaborate effectively with cross-functional teams (developers, product managers, business analysts).<br>
+•	Experience in participating in sprint planning, daily stand-ups, and retrospective meetings.<br>
+•	Capability to provide clear and concise feedback on product quality to stakeholders.<br>
+
+### Soft Skill 
+<hr/>
+•	Attention to detail to ensure comprehensive test coverage.<br>
+•	Time management and organization skills to meet deadlines.<br>
+•	Ability to work independently as well as in a team environment.<br>
+
+
+
 
 
 
