@@ -33,7 +33,7 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 
 ### Professional Experiences
 <b> May 2023 – Present </b>    
-Quality Assurance Engineer at <a href="https://wavemoney.com.mm/wavemoney">Wave Money</a><br>
+#### Quality Assurance Engineer at <a href="https://wavemoney.com.mm/wavemoney">Wave Money</a><br>
 •	Participate in system specification meetings, design reviews, use case reviews, and requirement gathering <br>
 •	Develop comprehensive test cases and test plans for projects <br>
 •	Performing functional testing, including integration, system, and user acceptance testing <br>
