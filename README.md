@@ -32,8 +32,16 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 2024       :<b>Certificate of completion Selenium WebDriver with Java Basics to Advanced +Frameworks from Udemy</b>
 
 ### Professional Experiences
-2023/05 – Present    
-Quality Assurance Engineer at <a href="https://wavemoney.com.mm/wavemoney">Wave Money</a>"
+<b> May 2023 – Present </b>    
+Quality Assurance Engineer at <a href="https://wavemoney.com.mm/wavemoney">Wave Money</a><br>
+•	Participate in system specification meetings, design reviews, use case reviews, and requirement gathering <br>
+•	Develop comprehensive test cases and test plans for projects <br>
+•	Performing functional testing, including integration, system, and user acceptance testing <br>
+•	Performing non-functional testing, particularly in conducting usability and compatibility testing <br>
+•	Collaborate with Automation testing team and run test script using Appium <br>
+•	Collaborate with cross-functional teams, include product managers, business analysts, and developers, to prioritize tasks, refine user stories, and ensure timely delivery of high-quality software products <br>
+
+
 
 
 
