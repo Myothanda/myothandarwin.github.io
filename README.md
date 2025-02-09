@@ -101,9 +101,9 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 •	Played a key role in the successful launch of new features includes Bill payments, Campaign project and convenient digital transactions for users.<br>
 </p>
 
-<b>Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TARA AUNG POS System </b>
-<b>Project Duration: 1st January 2020 – 30th April 2022 </b>
-<b>Position:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quality Assurance Engineer</b>
+<b>Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TARA AUNG POS System </b><br>
+<b>Project Duration: 1st January 2020 – 30th April 2022 </b><br>
+<b>Position:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quality Assurance Engineer</b><br>
 <b>Responsibilities</b><br>
 <p>
 •	Executed end-to-end testing of the POS system's core functionalities, including transaction processing, receipt printing, loyalty/point collect features and reporting.<br>
