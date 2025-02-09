@@ -51,6 +51,12 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 
 <b> January 2020 - March 2022 </b>
 #### Quality Assurance Engineer at <a href="https://www.taraaung.com/">Tara Aung</a><br>
+•	Experienced in develop test cases based on business requirement and technical specifications <br>
+•	Experienced with all levels of testing include unit testing, integration testing, system testing and user acceptance testing <br>
+•	Raised detailed bug report in Jira and assisted developer with issue analysis <br>
+•	Organized and reported project testing status at daily stand-up meeting <br>
+•	Presented a software Demo and collected business requirement, feedback from clients<br>
+•	Experienced in software installation at client sites, conducted training to end users and develop user guide document <br>
 
 
 
