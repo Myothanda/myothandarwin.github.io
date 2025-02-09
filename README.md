@@ -1,6 +1,6 @@
 ## Software Quality Assurance Engineer 
 ### Professional Summary
-<u> </u>
+<hr/>
 Hello my name is Nang Myo Thandar Win and  I have been work as a QA Engineer for over 5 years .I honed my skills in designing and executing comprehensive test plans, identifying and documenting defects, and collaborating with cross-functional teams to ensure the delivery of high-quality software solutions. My experience extends to various projects, where I have successfully tested customizations, integrations, and deployments across different environments.
 
 Key strengths that I bring to this position include:
@@ -12,7 +12,7 @@ Key strengths that I bring to this position include:
 3. Problem-Solving Skills: Strong analytical and problem-solving abilities, with a keen eye for detail and a commitment to delivering high-quality software.
 
 ### Technical Skills 
-
+<hr/>
 •	Familiar with test automation tools (e.g., Selenium, Appium). <br>
 •	I have experience regarding implementation of automation framework designs from scratch. <br>
 (TestNG, ANT, Page Object, Maven, Jenkins, Excel, Data driven, Cucumber, Client html reports)<br>
@@ -26,6 +26,7 @@ Key strengths that I bring to this position include:
 •	Familiarity with test management tools (Atlassian: Jira, Confluence)<br>
 
 ### Tools  
+<hr/>
 
 Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 ### Education 
@@ -37,7 +38,7 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 2024       :<b>Certificate of completion Selenium WebDriver with Java Basics to Advanced +Frameworks from Udemy</b>
 
 ### Professional Experiences
-<u> </u>
+<hr/>
 #### <b> May 2023 – Present </b>    
 #### Quality Assurance Engineer at <a href="https://wavemoney.com.mm/wavemoney">Wave Money</a><br>
 •	Participate in system specification meetings, design reviews, use case reviews, and requirement gathering <br>
