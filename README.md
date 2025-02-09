@@ -111,7 +111,7 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 </p>
 <b>Achievement</b>
 <p>•	Identified and resolved critical issues related to receipt printing inconsistencies, reporting discrepancies, and loyalty program malfunctions, enhancing overall system reliability and user experience.<br></p>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 <b>Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TWG Tea (E-commerce Website)</b> <br>
 <b>Project Duration: 1st October 2018 – 31st December 2019 </b> <br>
 <b>Position:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Junior Quality Assurance </b><br>
