@@ -47,7 +47,7 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 •	Organized and reported project testing status at daily stand-up meeting <br>
 •	Worked under Align (Scrum) environment/team focusing on sprint-by-sprint deliveries <br>
 •	Independently analyzes issues, recommends software changes, writes detailed bug reports, maintains ownership of test cases and test results throughout the SDLC <br>
-<b> January 2020 - March 2022 </b>
+#### <b> January 2020 - March 2022 </b>
 #### Quality Assurance Engineer at <a href="https://www.taraaung.com/">Tara Aung</a><br>
 •	Experienced in develop test cases based on business requirement and technical specifications <br>
 •	Experienced with all levels of testing include unit testing, integration testing, system testing and user acceptance testing <br>
@@ -55,7 +55,7 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 •	Organized and reported project testing status at daily stand-up meeting <br>
 •	Presented a software Demo and collected business requirement, feedback from clients<br>
 •	Experienced in software installation at client sites, conducted training to end users and develop user guide document <br>
-<b> October 2018 -December 2019</b>
+#### <b> October 2018 -December 2019</b>
 ### Junior Quality Assurance at  <a href="https://dynamicweb.com/about/meet-dynamicweb/team-apac">Dynamic Web APAC</a><br>
 •	Analyzed the business requirements, and functional, and technical designs to develop test cases for the assigned project
 •	Manual evaluated and raised issues in project tracking issue
