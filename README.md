@@ -17,6 +17,13 @@ Key strengths that I bring to this position include:
 •	Experience with programming languages used in automation (Java/Python)<br>
 #### Tools:   
 Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
+### Education 
+2013-2018  :<b>Bachelor of Computer Science <b> (B. C. Sc) <br>
+            <i>University of Computer Studies, Taunggyi, Myanmar<i><br>
+2022-2023  :<b>General English (Advance level)<b><br>
+            <i>The Space Language School <i><br>
+2024       :<b>Certificate of completion Selenium WebDriver with Java Basics to Advanced +Frameworks from Udemy<b>
+
 
 
 
