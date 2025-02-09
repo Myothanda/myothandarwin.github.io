@@ -100,7 +100,7 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 •	Improved overall application quality by implementing comprehensive testing strategies and methodologies, resulting in enhanced user satisfaction and retention.<br>
 •	Played a key role in the successful launch of new features includes Bill payments, Campaign project and convenient digital transactions for users.<br>
 </p>
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 <b>Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TARA AUNG POS System </b><br>
 <b>Project Duration: 1st January 2020 – 30th April 2022 </b><br>
 <b>Position:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quality Assurance Engineer</b><br>
