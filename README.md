@@ -72,7 +72,7 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 <hr/>
 <b>Project Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wave Pay Merchant Application </b><br>
 <b>Project Duration: 19th August 2023 – Current</b><br>
-<b>Position:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quality Assurance Engineer</b>
+<b>Position:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quality Assurance Engineer</b><br>
 <b>Responsibilities </b> <br>
 <p>
 •	Conducted comprehensive testing of the mobile wallet application across various platforms (iOS and Android) to identify and report software defects.<br>
@@ -84,6 +84,33 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 •	Implemented a comprehensive regression testing strategy, reducing the occurrence of post-release defects, and enhancing overall application stability.<br>
 •	Played a key role in the successful launch of new features, including QR code payments and new Bill payment integration, by conducting thorough end-to-end testing and validation. <br>
 </p>
+
+<b>Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One Pay Application</b> <br>
+<b> Duration: 4th April 2022 – 28th April 2023</b> <br>
+<b>Position: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quality Assurance Engineer</b><br>
+<b>Responsibilities</b> <br>
+<p>
+•	Conducted end-to-end testing of key functionalities such as Mobile Top-up, Bank Transfer (linked bank), Bill Payment, Campaign project, and Transactions History.
+•	Developed and executed test cases to validate user workflows and system performance.<br>
+•	Identified and reported software defects, collaborating with developers and stakeholders to prioritize and address issues promptly.<br>
+•	Participated in requirement reviews, sprint planning, and daily stand-up meetings to ensure alignment with project goals and timelines.<br>
+</p>
+<b>Achievements</b> <br>
+<p>
+•	Improved overall application quality by implementing comprehensive testing strategies and methodologies, resulting in enhanced user satisfaction and retention.<br>
+•	Played a key role in the successful launch of new features includes Bill payments, Campaign project and convenient digital transactions for users.<br>
+</p>
+
+<b>Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TARA AUNG POS System </b>
+<b>Project Duration: 1st January 2020 – 30th April 2022 </b>
+<b>Position:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quality Assurance Engineer</b>
+<b>Responsibilities</b><br>
+<p>
+•	Executed end-to-end testing of the POS system's core functionalities, including transaction processing, receipt printing, loyalty/point collect features and reporting.<br>
+•	Developed and executed test cases to validate the accuracy and reliability of receipt printing across different POS hardware and configurations.<br>
+</p>
+<b>Achievement</b>
+<p>•	Identified and resolved critical issues related to receipt printing inconsistencies, reporting discrepancies, and loyalty program malfunctions, enhancing overall system reliability and user experience.<br></p>
 
 
 
