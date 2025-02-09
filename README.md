@@ -15,6 +15,13 @@ Key strengths that I bring to this position include:
 •	I have experience regarding implementation of automation framework designs from scratch. <br>
 (TestNG, ANT, Page Object, Maven, Jenkins, Excel, Data driven, Cucumber, Client html reports)<br>
 •	Experience with programming languages used in automation (Java/Python)<br>
+### Testing Methodologies and Processes
+•	Knowledge of various testing types (Unit, Integration, System, Acceptance, Usability, Compatibility, Regression ...etc.).<br>
+•	Understanding of Agile and Scrum methodologies. <br>
+•	Experience with test case design, execution, and reporting.<br>
+•	Ability to perform risk analysis and prioritize testing efforts.<br>
+•	Familiarity with test management tools (Atlassian: Jira, Confluence)<br>
+
 ### Tools  
 Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 ### Education 
