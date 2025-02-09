@@ -73,13 +73,13 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 <b> Project Title:Wave Pay Merchant Application </b><br>
 <b>Project Duration:19th August 2023 – Current</b><br>
 <b></b>Position:Quality Assurance Engineer</b>
-<b>Responsibilities </b>
+<b>Responsibilities </b> <br>
 <p>
 •	Conducted comprehensive testing of the mobile wallet application across various platforms (iOS and Android) to identify and report software defects.<br>
 •	Developed and executed testcases to validate key functionalities, including account registration, fund transfers, bill payments, and transaction history.<br>
 •	Collaborated closely with developers, product managers, and UX/UI designers to clarify requirements, verify user interface designs, and address issues throughout the development lifecycle.<br>
 </p>
-<b>Achievements:</b>
+<b>Achievements:</b> <br>
 <p>
 •	Implemented a comprehensive regression testing strategy, reducing the occurrence of post-release defects, and enhancing overall application stability.<br>
 •	Played a key role in the successful launch of new features, including QR code payments and new Bill payment integration, by conducting thorough end-to-end testing and validation. <br>
