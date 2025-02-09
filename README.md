@@ -67,6 +67,8 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 •	Manual evaluated and raised issues in project tracking issue
 •	Supported client issues
 •	•Learn to understand software Development Life Cycle (SDLC) and software Testing Life Cycle (STLC) including Agile Methodology
+### Projects Experience
+<u> </u>
 
 
 
