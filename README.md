@@ -50,7 +50,7 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 •	Independently analyzes issues, recommends software changes, writes detailed bug reports, maintains ownership of test cases and test results throughout the SDLC <br>
 
 <b> January 2020 - March 2022 </b>
-#### Quality Assurance Engineer at <a href="https://www.taraaung.com/">TARA AUNG</a><br>
+#### Quality Assurance Engineer at <a href="https://www.taraaung.com/">Tara Aung</a><br>
 
 
 
