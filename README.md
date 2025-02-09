@@ -84,7 +84,7 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 •	Implemented a comprehensive regression testing strategy, reducing the occurrence of post-release defects, and enhancing overall application stability.<br>
 •	Played a key role in the successful launch of new features, including QR code payments and new Bill payment integration, by conducting thorough end-to-end testing and validation. <br>
 </p>
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <b>Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One Pay Application</b> <br>
 <b> Duration: 4th April 2022 – 28th April 2023</b> <br>
 <b>Position: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quality Assurance Engineer</b><br>
@@ -111,6 +111,27 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 </p>
 <b>Achievement</b>
 <p>•	Identified and resolved critical issues related to receipt printing inconsistencies, reporting discrepancies, and loyalty program malfunctions, enhancing overall system reliability and user experience.<br></p>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+<b>Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TWG Tea (E-commerce Website)</b> <br>
+<b>Project Duration: 1st October 2018 – 31st December 2019 </b> <br>
+<b>Position:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Junior Quality Assurance </b><br>
+<b>Responsibilities</b><br>
+•	Participated in the testing of user registration functionality and add to cart feature to verify product selection, quantity adjustments, and cart management functionalities for a smooth shopping experience.<br>
+•	Tested Payment processes, including payment gateway integration, and order confirmation, to ensure secure and efficient payment transactions.<br>
+•	Collaborated with senior QA members and development teams to document test cases, identify and report defects, and verify bug fixes to maintain application functionality.<br> 
+<b>Achievement </b>
+•	Successfully contributed to the testing efforts of key features including User Registration, Add to Cart, Payment and ensuring a reliable and user-friendly e-commerce platform.<br>
+•	Working closely with senior QA members and development teams to deliver high-quality software releases and enhance user satisfaction.<br>
+
+### Personal Information
+<hr/>
+<b>Name:</b>  Nang Myo Thandar Win     <b> Date of Birth:</b> 28th August 1997 <br>
+<b>Married status:</b> Single          <b>Nationality:</b>  Burmese /Shan <br>
+<b>Languages:</b> Fluent in English, Burmese, Shan ,Thai (Basic Communication)<br>
+
+
+
+
 
 
 
