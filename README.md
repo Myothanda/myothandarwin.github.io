@@ -26,9 +26,9 @@ Key strengths that I bring to this position include:
 Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 ### Education 
 2013-2018  :<b>Bachelor of Computer Science </b> (B. C. Sc) <br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<i>University of Computer Studies, Taunggyi, Myanmar</i><br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;<i>University of Computer Studies, Taunggyi, Myanmar</i><br>
 2022-2023  :<b>General English (Advance level)</b><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<i>The Space Language School </i><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<i>The Space Language School </i><br>
 2024       :<b>Certificate of completion Selenium WebDriver with Java Basics to Advanced +Frameworks from Udemy</b>
 
 ### Professional Experiences
