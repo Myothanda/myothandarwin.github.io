@@ -32,7 +32,7 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 2024       :<b>Certificate of completion Selenium WebDriver with Java Basics to Advanced +Frameworks from Udemy</b>
 
 ### Professional Experiences
-<b> May 2023 – Present </b>    
+#### <b> May 2023 – Present </b>    
 #### Quality Assurance Engineer at <a href="https://wavemoney.com.mm/wavemoney">Wave Money</a><br>
 •	Participate in system specification meetings, design reviews, use case reviews, and requirement gathering <br>
 •	Develop comprehensive test cases and test plans for projects <br>
@@ -40,7 +40,7 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 •	Performing non-functional testing, particularly in conducting usability and compatibility testing <br>
 •	Collaborate with Automation testing team and run test script using Appium <br>
 •	Collaborate with cross-functional teams, include product managers, business analysts, and developers, to prioritize tasks, refine user stories, and ensure timely delivery of high-quality software products <br>
-<b> April 2022 – April 2023 </b>
+#### <b> April 2022 – April 2023 </b>
 #### Quality Assurance Engineer at <a href="https://www.onepay.com.mm/">One Pay</a><br>
 •	Created test cases/ test scenarios for enhancements and fixes on applications <br>
 •	Performed all aspects of verification, including API testing, End to End testing, smoke testing, sanity testing, user acceptance testing and Exploratory testing <br>
@@ -56,7 +56,7 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 •	Presented a software Demo and collected business requirement, feedback from clients<br>
 •	Experienced in software installation at client sites, conducted training to end users and develop user guide document <br>
 #### <b> October 2018 -December 2019</b>
-### Junior Quality Assurance at  <a href="https://dynamicweb.com/about/meet-dynamicweb/team-apac">Dynamic Web APAC</a><br>
+#### Junior Quality Assurance at  <a href="https://dynamicweb.com/about/meet-dynamicweb/team-apac">Dynamic Web APAC</a><br>
 •	Analyzed the business requirements, and functional, and technical designs to develop test cases for the assigned project
 •	Manual evaluated and raised issues in project tracking issue
 •	Supported client issues
