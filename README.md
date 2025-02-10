@@ -142,7 +142,11 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 •	Time management and organization skills to meet deadlines.<br>
 •	Ability to work independently as well as in a team environment.<br>
 
+## Contact
+📧 Email: your.email@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/myo-thandar-win/) | [GitHub](https://github.com/Myothanda)
 
+[Download My Resume](assests/img/my_resum.xlsx.docx)
 
 
 
