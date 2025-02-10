@@ -10,6 +10,16 @@ Key strengths that I bring to this position include:
 2. Agile Methodology: Experience in Agile development environments, participating in sprint planning, daily stand-ups, and sprint reviews to ensure alignment with project timelines.
 
 3. Problem-Solving Skills: Strong analytical and problem-solving abilities, with a keen eye for detail and a commitment to delivering high-quality software.
+   
+### Contact Information
+<hr/>
+📞 **Phone:** +66 0627800280  
+📧 **Email:** myothandarwin98@gmail.com
+🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/myo-thandar-win/)  
+🐱 **GitHub:** [Your GitHub Profile](https://github.com/Myothanda)  
+
+[📄 Download My Resume](assests/img/my_resum.xlsx.docx)
+
 
 ### Technical Skills 
 <hr/>
@@ -142,11 +152,6 @@ Postman, Visual Studio, Eclipse, Selenium, Appium   <br>
 •	Time management and organization skills to meet deadlines.<br>
 •	Ability to work independently as well as in a team environment.<br>
 
-## Contact
-📧 Email: your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/myo-thandar-win/) | [GitHub](https://github.com/Myothanda)
-
-[Download My Resume](assests/img/my_resum.xlsx.docx)
 
 
 
