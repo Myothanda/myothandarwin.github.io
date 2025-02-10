@@ -1,8 +1,7 @@
 title: Nang Myo Thandar Win 
 logo: assests/img/img2.png
 description: Software Quality Assurance Engineer
-description: Phone: +66 0627800280
-description: <a href="{{ assests/img/my_resum.xlsx.docx }}" download>Download Excel File</a>
+
 #download_link: assests/img/my_resum.xlsx.docx
 #show_downloads: true
 theme: jekyll-theme-minimal
