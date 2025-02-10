@@ -3,7 +3,7 @@ logo: assests/img/img2.png
 description: Software Quality Assurance Engineer
 
 #download_link: assests/img/my_resum.xlsx.docx
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
 social_links:
 linkedin: https://www.linkedin.com/in/your-profile
