@@ -15,8 +15,8 @@ Key strengths that I bring to this position include:
 <hr/>
 📞 **Phone:** +66 0627800280  
 📧 **Email:** myothandarwin98@gmail.com
-🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/myo-thandar-win/)  
-🐱 **GitHub:** [Your GitHub Profile](https://github.com/Myothanda)  
+🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/myo-thandar-win/)  <br>
+🐙 **GitHub:** [Your GitHub Profile](https://github.com/Myothanda)  
 
 [📄 Download My Resume](assests/img/my_resum.xlsx.docx)
 
